@@ -13,7 +13,6 @@ This repository contains 25 basic unix commands:
 
 4.	cal command:
 ![image](https://github.com/Aneri11U/Unix_commands/assets/121008198/61de93c3-0937-48eb-b536-abb2ec3c2ada)
-
 ![image](https://github.com/Aneri11U/Unix_commands/assets/121008198/d4650e65-1af1-40f5-b04a-f77d61155aa5)
 
 5.	mkdir command:
